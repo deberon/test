@@ -1,0 +1,7 @@
+---
+
+layout:
+  - introduction
+
+settings:
+  template: default.tmpl.html
